@@ -1,4 +1,4 @@
 # travel_ui
 
 # Flutter tutorial 
-tying to replicate travle ui on dribbble.com
+trying out travel ui on dribbble.com
